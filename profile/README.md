@@ -1,4 +1,4 @@
-<img src="https://tenor.com/cs/view/pato-girando-gif-19431224">
+<img src="images.jpg" width="600px" length="auto">
 <!--
 
 **Here are some ideas to get you started:**
