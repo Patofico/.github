@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src="https://tenor.com/cs/view/pato-girando-gif-19431224">
 <!--
 
 **Here are some ideas to get you started:**
